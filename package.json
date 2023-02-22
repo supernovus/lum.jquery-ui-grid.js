@@ -1,6 +1,6 @@
 {
   "name": "@lumjs/jquery-ui-grid",
-  "version": "0.9.0",
+  "version": "1.0.0-beta.1",
   "main": "lib/index.js",
   "exports": 
   {

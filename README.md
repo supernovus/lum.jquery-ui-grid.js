@@ -3,13 +3,13 @@
 A class for calculating flexible grids in web apps with [jQuery UI]
 providing the key layout and event handling capabilities.
 
-## UNFINISHED!
+## Stability Status
 
 I am still in the process of testing this after porting the code
 from the old monolithic library set, and there's strange bugs that
 show up in the conflict resolution methods in this version that don't
 happen in the Lum.sh v4 version. Until I figure out why, I will not mark
-this as version `1.0.0` or publish it to `npm`. 
+this as the stable `1.0.0`.
 
 ## Exports
 
